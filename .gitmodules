@@ -1,0 +1,6 @@
+[submodule "thirdparty/CPP-SMTPClient-library"]
+	path = thirdparty/CPP-SMTPClient-library
+	url = https://github.com/asaeppel4231/CPP-SMTPClient-library
+[submodule "thirdparty/libtinyini"]
+	path = thirdparty/libtinyini
+	url = https://github.com/asaeppel4231/libtinyini
